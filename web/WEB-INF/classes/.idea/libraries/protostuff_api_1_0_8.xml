@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="protostuff-api-1.0.8">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/protostuff-api-1.0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/protostuff-collectionschema-1.0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/protostuff-core-1.0.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/protostuff-runtime-1.0.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
